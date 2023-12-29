@@ -38,6 +38,6 @@ TODO : organize the command
 - `-projectPath=/var/jenkins_home/workspace/Pipeline_Katalon_Testing_0002  -retry=0 -testSuitePath="Test Suites/Test Suite Google" -browserType="Chrome" -executionProfile="default" --config -proxy.auth.option=MANUAL_CONFIG -proxy.auth.server.type=HTTP -proxy.auth.server.address=127.0.0.1 -proxy.auth.server.port=1234 -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -webui.autoUpdateDrivers=true`
 - `-a -n 0 -s "-screen 0 1024x768x24"`
 
-## Katalon Jenkins Plugin Command #2 (PROXY OFF)
+#### Katalon Jenkins Plugin Command #2 (PROXY OFF)
 - `-projectPath=/var/jenkins_home/workspace/Pipeline_Katalon_Testing_0002 -retry=0 -testSuitePath="Test Suites/Test Suite Google" -browserType="Chrome" -executionProfile="default" -apiKey="INSERT_API_KEY_HERE" --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -webui.autoUpdateDrivers=true`
 - `-a -n 0 -s "-screen 0 1024x768x24"`
