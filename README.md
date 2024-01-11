@@ -34,8 +34,8 @@ TODO : organize the command
 #### Katalon Docker Run (PROXY ON FOR LICENSE)
 - `docker run -t --rm -v ${pwd}:/tmp/project katalonstudio/katalon katalonc.sh -projectPath=/tmp/project -retry=0 -testSuitePath="Test Suites/Test Suite Google" -browserType="Chrome" -executionProfile="default" -apiKey="INSERT_API_KEY_HERE"  --config -proxy.auth.option=MANUAL_CONFIG -proxy.auth.server.type=HTTP -proxy.auth.server.address=127.0.0.1 -proxy.auth.server.port=1234 -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -webui.autoUpdateDrivers=true`
 
-#### Katalon Podman In RHEL9
--
+#### Katalon Podman Run In Red Hat Enterprise Linux (RHEL9)
+- `podman run -t --rm -v "$(pwd)":/tmp/project katalonstudio/katalon katalonc.sh -projectPath=/tmp/project -retry=0 -testSuitePath="Test Suites/Test Suite Google" -browserType="Chrome" -executionProfile="default" -apiKey="INSERT_API_KEY_HERE" --config -proxy.auth.option=MANUAL_CONFIG -proxy.auth.server.type=HTTP -proxy.auth.server.address=127.0.0.1 -proxy.auth.server.port=1234 -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -webui.autoUpdateDrivers=true `
 
 #### Katalon Jenkins Plugin Path
 - `/var/jenkins_home/mount_folder_katalon_studio/Katalon_Studio_Engine_Linux_64-9.2.0`
