@@ -10,9 +10,7 @@ Sample project are separated by branch, below are this list of sample and it's c
 | katalon-web-ui-project | Sample Katalon Project For QA Web-UI Testing | 
 | katalon-mobile-ui-project | Sample Katalon Project For QA Mobile UI Testing | 
 
-## Katalon Command
-TODO : organize the command
-
+## Katalon Commands
 
 #### Change Directory First
 - `cd "C:\Katalon Studio\My First Web UI Project"`
