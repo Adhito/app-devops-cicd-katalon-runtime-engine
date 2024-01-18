@@ -49,4 +49,5 @@ Sample project are separated by branch, below are this list of sample and it's c
 
 ## Katalon Studio
 
-TODO : Some screenshot
+TODO : Screenshot on how to generate the Katalon Runtime Engine (KRE) commands from Katalon Studio
+
