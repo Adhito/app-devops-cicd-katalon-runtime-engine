@@ -50,4 +50,4 @@ Sample project are separated by branch, below are this list of sample and it's c
 ## Katalon Studio
 
 TODO : Screenshot on how to generate the Katalon Runtime Engine (KRE) commands from Katalon Studio
-
+TODO : Screenshot on setting proxy from the Katalon Studio
