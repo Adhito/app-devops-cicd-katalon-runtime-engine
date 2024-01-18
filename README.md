@@ -4,6 +4,8 @@ Repository For Katalon Test Case Samples and Guide On Using Katalon KRE
 ## Branch
 Sample project are separated by branch, below are this list of sample and it's corresponding branch
 
+TODO : Create separate repositories for each Katalon sample project (API, Web UI and Mobile)
+
 | Branch Name    | Description   |  
 | :------------  | :------------ | 
 | katalon-api-project | Sample Katalon Project For QA API Testing | 
