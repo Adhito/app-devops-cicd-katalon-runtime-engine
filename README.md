@@ -4,7 +4,7 @@ Repository For Katalon Test Case Samples and Guide On Using Katalon KRE
 ## Branch
 Sample project are separated by branch, below are this list of sample and it's corresponding branch
 
-TODO : Create separate repositories for each Katalon sample project (API, Web UI and Mobile)
+- [ ]  TODO : Create separate repositories for each Katalon sample project (API, Web UI and Mobile)
 
 | Branch Name    | Description   |  
 | :------------  | :------------ | 
@@ -51,5 +51,5 @@ TODO : Create separate repositories for each Katalon sample project (API, Web UI
 
 ## Katalon Studio
 
-TODO : Screenshot on how to generate the Katalon Runtime Engine (KRE) commands from Katalon Studio
-TODO : Screenshot on setting proxy from the Katalon Studio
+- [ ]  TODO : Screenshot on how to generate the Katalon Runtime Engine (KRE) commands from Katalon Studio
+- [ ]  TODO : Screenshot on setting proxy from the Katalon Studio
